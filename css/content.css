@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+section {
+	height:1800px;
+}
+section h1 {
+	float: right;
+	padding: 0px;
+	margin: 0px;
+}
+
+article {
+	padding: 50px;
+        background: #fff;
+        margin: 20px auto;
+        border-radius: 50px;
+        /* border:1px #000 solid; */
+        width: 500px;
+        height: 400px;
+        clear: both;
+        float: right;
+}
+
+article h1 {
+	margin: 0px;
+	padding: 0px;
+	font-size: 22px;
+	clear: both;
+	float: none;
+}
+
+article p.date {
+	margin: 5px;
+	padding: 0px;
+	font-size:14px;
+	color:#FF69B4;
+}

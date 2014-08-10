@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+/* マウスオーバーの設定です。  */
+
+header a:link{
+        color:black;
+}
+
+header a:visited{
+        color:black;
+}
+
+header a:hover{
+        color:red;
+}
+
+header a:active{
+        color: red;
+}
+
+header a{
+	color:black;
+}
+
+section a:link{
+        color:black;
+}
+
+section a:visited{
+        color:black;
+}
+
+section a:hover{
+        color:red;
+}
+
+section a:active{
+        color: red;
+}
+
+section a{
+        color:black;
+}
+
+article a:link{
+        color:blue;
+}
+
+article a:visited{
+        color:blue;
+}
+
+article a:hover{
+        color:red;
+}
+
+article a:active{
+        color: red;
+}
+
+article a{
+        color:blue;
+}
+
+footer a:link{
+	color:blue;
+}
+
+footer a:visited{
+        color:blue;
+}
+
+footer a:hover{
+        color:red;
+}
+
+footer a:active{
+       color: red;
+}
+
+footer a{
+        color:blue;
+}
